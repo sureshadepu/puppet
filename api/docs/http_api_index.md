@@ -49,7 +49,8 @@ When specifying authorization in `auth.conf`, the prefix and the version number
 authorization rules against the full request path.
 
 Puppet V3 HTTP API
-------------------
+------------------boi
+
 
 The Puppet agent application uses several network services to manage systems.
 These services are all grouped under the `/puppet` API. Other tools can access
